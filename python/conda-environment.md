@@ -41,5 +41,5 @@ Deactivate the active environment (return to the base)
 ### Remove a Conda environment
 
 > ```
-> conda remove --name redmine --all
+> conda remove --name myenv --all
 > ```
